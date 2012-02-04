@@ -9,3 +9,5 @@ The origonal series on NetTuts http://net.tutsplus.com/sessions/codeigniter-from
 Do Not Run This On A Live Server
 =================================
 #### It is example localhost setup only!
+
+NOTE: the blog was not part of it.
